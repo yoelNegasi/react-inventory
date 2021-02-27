@@ -1,0 +1,8 @@
+.pants {
+  border: 3px solid black;
+  background-color: rgb(85, 85, 96);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 150px;
+}

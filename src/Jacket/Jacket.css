@@ -1,0 +1,16 @@
+.jacket {
+  border: 3px solid black;
+  background-color: rgb(106, 106, 182);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 150px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+h2 {
+  color: rgb(0, 0, 0);
+}
